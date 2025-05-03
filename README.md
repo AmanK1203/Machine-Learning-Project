@@ -11,3 +11,4 @@ The objective of a bank customer churn model is to predict which customers are l
 
 This is a data(dummy) of Financial Market Top 25 News for the Day and Task is to Train and Predict Model for Overall Sentiment Analysis
 
+All projects are made using COLAB, Just simply run in COLAB and make sure you have all dependecies.
